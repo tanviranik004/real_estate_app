@@ -31,6 +31,6 @@ const Navbar =()=>(
             </Menu>
         </Box>
     </Flex>
-)
+);
 
 export default Navbar ;

@@ -59,6 +59,7 @@ const PropertyDetails = ({ propertyDetails: { price, rentFrequency, rooms, title
   </Box>
 );
 
+
 export default PropertyDetails;
 
 export async function getServerSideProps({ params: { id } }) {
